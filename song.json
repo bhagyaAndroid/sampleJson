@@ -1,24 +1,29 @@
 {
   "songs": [
     {
-      "songName": "thegudi",
+      "songName": "thodari",
+      "thumImage": "https://lh3.googleusercontent.com/2lhOnzsswmv3maVxD-HzTrqlwz1rmGQZjFW8JI5YhRRe6DVQHGP82MeRS5YvwkvWaQ=s128"
       "url": "http://goo.gl/6EtHMW"
     },
     {
-      "songName": "thegudi_adada",
+      "songName": "thodari_adada",
+        "thumImage": "https://lh3.googleusercontent.com/2lhOnzsswmv3maVxD-HzTrqlwz1rmGQZjFW8JI5YhRRe6DVQHGP82MeRS5YvwkvWaQ=s128"
       "url": "http://goo.gl/1cqJ1N"
     },
     {
       "songName": "kala_theme",
+        "thumImage": "https://tamil.filmibeat.com/img/128x50/2018/05/kaala78-1525689258.jpg"
       "url": "http://tamilfun.win/down.php?file=Tamil%202018%20Songs/Kaala/64/Kaala%20(Tamil)%20Teaser%20Theme.mp3"
     },
     {
       "songName": "kala_song",
+        "thumImage": "https://tamil.filmibeat.com/img/128x50/2018/05/kaala78-1525689258.jpg"
       "url": "http://tamilfreemp3s.net/down.php?file=Tamil%202018%20Songs/Kaala/64/Katravai%20Patravai.mp3"
     },
     {
-      "songName": "Tamil Padam 2",
-      "url": "http://tamilfun.win/down.php?file=Tamil%202018%20Songs/Tamizh%20Padam%202.0/64/Evada%20Unna%20Petha.mp3"
+      "songName": "Ajith_Song",
+        "thumImage": "https://lh3.googleusercontent.com/Qsd3zLSD7jVyMXOPyPJFglHMNabZYr3OTswyExaxhpDgpLBcGBf8QTJ3Z0WcIe9vjTg=s128"
+      "url": "https://www.masstamilan.com/downloader/gIAIIDTNgqK7yRVJARfzCw/1533283418/d128_cdn/6796"
     }
   ]
 }
